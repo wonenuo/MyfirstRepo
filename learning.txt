@@ -1,0 +1,1 @@
+So far in this course, I have learned how to use GitHub repositories, create branches, commit changes, and collaborate using pull requests. I also learned how to manage files using Git commands.
